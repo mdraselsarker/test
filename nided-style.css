@@ -1,0 +1,17 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+
+.mainDiv{
+    width: 800px;
+    padding: 20px;
+    border: 1px solid green;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.hoverDiv{
+    width: 200px;
+    height: 150px;
+}
